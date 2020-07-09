@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Kyle 👋
 
-<!--
-**KyleMit/KyleMit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏛 I'm the principal software developer (a title I gave myself) at the Vermont Department of Health  
+😍 I love learning new things and also teaching / documenting what I know.    
+🌐 I like short domains and long <del>walks on the ...</del> comments  
+💻 My favorite programming language is Markdown, but also enjoy c#, js, html, css, & sql  
+🔼 I'm trying to give away all my rep on StackOverflow - currently [given away 20k](https://stackoverflow.com/users/1366033/kylemit?tab=bounties) (of 80k)  
+😥 Currently on day 4 of my boss is making me learn SalseForce  
+📈 I've been hooked on [eleventy](https://github.com/KyleMit?tab=repositories&q=eleventy) lately  
+✍ Looking to get back into tech blogging at [coding everything](http://www.codingeverything.com/) and also [doc gov](https://docgov.dev/)  
+💼 Recently purchased [btv.dev](https://btv.dev/) with my brother to start up a web agency maybe?  
+🐱 Proud owner of 3 black cats, a dog, and 3 really old laptops.  
+💬 DMs always open - reach out if you want free advice or a budget website
