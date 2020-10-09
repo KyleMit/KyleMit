@@ -1,7 +1,7 @@
 ### Hi there, I'm Kyle 👋
 
 🏛 &nbsp; *Currently*: Senior Software Engineer @ [This Dot](https://github.com/thisdot)  
-⌛ &nbsp; *Previously*: Principal Software Developer @ the [Vermont Department of Health](https://github.com/VermontDepartmentOfHealth) for 8.5 years
+⌛ &nbsp; *Previously*: Principal Software Developer @ the [Vermont Department of Health](https://github.com/VermontDepartmentOfHealth) for 8.5 years  
 😍 &nbsp; I love learning new things and also teaching / documenting what I know.    
 🌐 &nbsp; I like short domains and long <del>walks on the ...</del> comments  
 💻 &nbsp; My favorite programming language is Markdown, but also enjoy c#, js, html, css, & sql  
