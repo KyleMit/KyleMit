@@ -7,6 +7,7 @@
 
 -----
 
+🧔 &nbsp: About me at https://kylemit.dev/
 😍 &nbsp; I love learning new things and also teaching / documenting what I know.    
 🌐 &nbsp; I like short domains and long <del>walks on the ...</del> code comments  
 💻 &nbsp; My favorite programming language is Markdown, but also enjoy c#, js, html, css, & sql  
