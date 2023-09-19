@@ -1,8 +1,8 @@
 ## Hi there, I'm Kyle 👋
 
-#### 🏛 &nbsp; Senior Software Developer @ [StackOverflow (Public Platform)](https://stackoverflow.com/)  
+#### 🏛 &nbsp; Senior Software Developer, Tech Lead @ [StackOverflow (Public Platform)](https://stackoverflow.com/)  
 ⏳ &nbsp;&nbsp; *Previously*: Senior Developer, Tech Lead @ [DealerPolicy](https://www.dealerpolicy.com/)  
-🕰 &nbsp; *Previously*: Senior Software Developer @ [This Dot Labs](https://www.thisdot.co/)  
+🕰 &nbsp; *Previously*: Senior Software Developer, Tech Lead @ [This Dot Labs](https://www.thisdot.co/)  
 📅 &nbsp; *Previously*: Principal Software Developer @ [Vermont Department of Health](https://github.com/VermontDepartmentOfHealth)
 
 -----
